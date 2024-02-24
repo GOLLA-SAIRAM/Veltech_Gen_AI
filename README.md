@@ -1,1 +1,1 @@
-# Veltech_Gen_AI
+Welcome to our Generative AI project! This repository houses an implementation of generative artificial intelligence, a cutting-edge technology that autonomously generates diverse and creative content. Our model, built upon advanced neural networks, is capable of producing original text, images, and more.
